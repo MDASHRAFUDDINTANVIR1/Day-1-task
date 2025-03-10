@@ -7,6 +7,6 @@
 <p>GitHub is a cloud-based platform where you can store and share your Git projects. It helps developers collaborate by hosting their code online.</p>
 
 <h4>Git Basic Commands</h4>
-
+<p>Let's get some knowledge about git Basic commands</p>
 
 
